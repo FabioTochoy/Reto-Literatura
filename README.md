@@ -39,9 +39,17 @@ Además, permite consultar y mostrar los libros previamente buscados, facilitand
 ![](https://github.com/FabioTochoy/Reto-Literatura/blob/main/reto%20literatura/imagen%201.jpg)
 
 - El programa arranca dandonos 6 opciones que se mostraran a continuacion:
+
 ![](https://github.com/FabioTochoy/Reto-Literatura/blob/main/reto%20literatura/imagen%202.jpg)
 
-- En este paso Selecionamos la opcion 1 y registramos nuestro nuevo libro. 
+- En este paso Selecionamos la opcion 1 y una vez que el libro fue encontrado se guarda automaticamente en nuestra base de datos.
+
+![](https://github.com/FabioTochoy/Reto-Literatura/blob/main/reto%20literatura/imagen%203.jpg)
+
+- En este paso selecionamos la opcion 2 que muestra los libros que tenemos registrados en la base de datos:
+  
+
+
 
 
   
