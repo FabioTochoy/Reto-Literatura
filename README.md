@@ -34,5 +34,9 @@ Además, permite consultar y mostrar los libros previamente buscados, facilitand
 - Abre el proyecto en tu IDE (Eclipse, IntelliJ, VS Code, etc.).
 - Abra psAdmin4.
 
+- Acontinuacion Agrege sus datos en tu servidor para la conexion de java y psAdmin4 como se muestra acontinuacion:
+
+![]()
+
 
   
