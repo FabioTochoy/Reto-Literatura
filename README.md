@@ -38,15 +38,38 @@ Además, permite consultar y mostrar los libros previamente buscados, facilitand
 
 ![](https://github.com/FabioTochoy/Reto-Literatura/blob/main/reto%20literatura/imagen%201.jpg)
 
-- El programa arranca dandonos 6 opciones que se mostraran a continuacion:
+- Al iniciar el programa, se muestran seis opciones disponibles, como se observa a continuación:
 
 ![](https://github.com/FabioTochoy/Reto-Literatura/blob/main/reto%20literatura/imagen%202.jpg)
 
-- En este paso Selecionamos la opcion 1 y una vez que el libro fue encontrado se guarda automaticamente en nuestra base de datos.
+- En este paso se selecciona la opción 1. Una vez que el libro es encontrado mediante la API, se guarda automáticamente en la base de datos.
 
 ![](https://github.com/FabioTochoy/Reto-Literatura/blob/main/reto%20literatura/imagen%203.jpg)
 
-- En este paso selecionamos la opcion 2 que muestra los libros que tenemos registrados en la base de datos:
+- En este paso se selecciona la opción 2, la cual muestra los libros registrados en la base de datos.
+
+![](https://github.com/FabioTochoy/Reto-Literatura/blob/main/reto%20literatura/imagen%204.jpg)
+
+- Las demás opciones muestran en pantalla la información correspondiente, según los datos almacenados en la base de datos.
+
+#Notas Adicionales:
+
+- La aplicación está diseñada para no cerrarse al ingresar datos no válidos.
+- Los libros duplicados no se vuelven a registrar; esta validación no afecta la ejecución del programa.
+- En caso de error, se muestra el mensaje correspondiente en pantalla y el programa continúa en ejecución.
+
+#Aprendizaje
+
+- Utilizar y comprender el funcionamiento de una API.
+- Aplicar `HttpRequest` para enviar solicitudes y `HttpResponse` para recibir datos.
+- Crear la conexión entre Java y una base de datos.
+- Almacenar información en una base de datos SQL.
+
+# Licencia
+
+-Este proyecto fue creado con fines educativos como parte de la formación de ONE con Alura Latam.
+
+
   
 
 
