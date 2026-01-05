@@ -34,9 +34,11 @@ Además, permite consultar y mostrar los libros previamente buscados, facilitand
 - Abre el proyecto en tu IDE (Eclipse, IntelliJ, VS Code, etc.).
 - Abra psAdmin4.
 
-- Acontinuacion Agrege sus datos en tu servidor para la conexion de java y psAdmin4 como se muestra acontinuacion:
+- A continuación, agregue sus credenciales de conexión en el servidor para establecer la conexión entre la aplicación Java y pgAdmin 4, como se muestra a continuación:
 
 ![](https://github.com/FabioTochoy/Reto-Literatura/blob/main/reto%20literatura/imagen%201.jpg)
+
+-El programa arranca dandonos 6 opciones que se mostraran a continuacion:
 
 
   
