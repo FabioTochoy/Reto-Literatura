@@ -36,7 +36,7 @@ Además, permite consultar y mostrar los libros previamente buscados, facilitand
 
 - Acontinuacion Agrege sus datos en tu servidor para la conexion de java y psAdmin4 como se muestra acontinuacion:
 
-![]()
+![](https://github.com/FabioTochoy/Reto-Literatura/blob/main/reto%20literatura/imagen%201.jpg)
 
 
   
